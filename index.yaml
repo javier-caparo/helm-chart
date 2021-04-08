@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  efk-monitoring:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2021-04-07T21:14:32.298236-05:00"
+    description: A Helm chart for monitoring AKS Kubernetes using EFK + beats
+    digest: 19a498c50194dca17ac5c34280e029d8e11608c6d512b05292364de3b57f90bc
+    name: efk-monitoring
+    type: application
+    urls:
+    - https://github.com/jfcb853/helm-chart/releases/download/efk-monitoring-1.0.0/efk-monitoring-1.0.0.tgz
+    version: 1.0.0
+generated: "2021-04-07T21:14:32.298236-05:00"
